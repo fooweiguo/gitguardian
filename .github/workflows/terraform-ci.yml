@@ -1,4 +1,4 @@
-name: Terraform S3-SQS
+name: Secrets Scanner
 
 
 on:
